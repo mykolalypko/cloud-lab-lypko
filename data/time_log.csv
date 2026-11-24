@@ -1,0 +1,41 @@
+member,activity,hours,week,project
+Member_A,Development,6.5,1,MobileApp
+Member_A,Code review,2.0,1,MobileApp
+Member_B,Development,5.0,1,WebApp
+Member_B,Meetings,2.5,1,MobileApp
+Member_C,Development,8.0,1,MobileApp
+Member_C,Meetings,2.0,1,WebApp
+Member_D,Documentation,1.0,1,WebApp
+Member_D,Code review,2.5,1,MobileApp
+Member_E,Testing,1.0,1,MobileApp
+Member_E,Planning,1.0,1,WebApp
+Member_A,Development,6.5,2,MobileApp
+Member_A,Planning,1.0,2,MobileApp
+Member_B,Development,7.5,2,MobileApp
+Member_B,Meetings,1.5,2,WebApp
+Member_C,Development,3.0,2,MobileApp
+Member_C,Planning,1.0,2,WebApp
+Member_D,Testing,2.0,2,MobileApp
+Member_D,Planning,0.5,2,WebApp
+Member_E,Documentation,2.5,2,MobileApp
+Member_E,Testing,1.5,2,MobileApp
+Member_A,Development,6.5,3,WebApp
+Member_A,Code review,0.5,3,MobileApp
+Member_B,Development,7.0,3,WebApp
+Member_B,Planning,0.5,3,MobileApp
+Member_C,Development,6.5,3,MobileApp
+Member_C,Meetings,2.5,3,MobileApp
+Member_D,Documentation,2.0,3,WebApp
+Member_D,Meetings,1.0,3,MobileApp
+Member_E,Testing,1.0,3,MobileApp
+Member_E,Planning,1.5,3,MobileApp
+Member_A,Development,6.0,4,MobileApp
+Member_A,Code review,0.5,4,MobileApp
+Member_B,Development,4.0,4,MobileApp
+Member_B,Code review,2.0,4,MobileApp
+Member_C,Development,3.0,4,MobileApp
+Member_C,Documentation,0.5,4,MobileApp
+Member_D,Testing,1.5,4,MobileApp
+Member_D,Documentation,1.5,4,WebApp
+Member_E,Documentation,1.5,4,WebApp
+Member_E,Testing,2.5,4,WebApp
